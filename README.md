@@ -79,5 +79,5 @@ that all core banking functionalities work correctly and meet the expected requi
 * Bug Reports
 * Test Scenarios
 
-## Author
+👨‍💻 Author
 Adarsh Singh
