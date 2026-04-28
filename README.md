@@ -5,10 +5,10 @@ This project focuses on manual testing of the Parabank web application. The obje
 that all core banking functionalities work correctly and meet the expected requirements.
 
 ## Objectives
-*Validate end-to-end user workflows
-*Identify functional and UI defects
-*Ensure data validation and security checks
-*Improve overall application quality
+* Validate end-to-end user workflows
+* Identify functional and UI defects
+* Ensure data validation and security checks
+* Improve overall application quality
 
 ## Modules Covered
 * Registration
@@ -33,51 +33,51 @@ that all core banking functionalities work correctly and meet the expected requi
 
 ## Test Case Design
 * Designed detailed test cases covering:
-  *Positive scenarios
-  *Negative scenarios
-  *Boundary value analysis
+  * Positive scenarios
+  * Negative scenarios
+  * Boundary value analysis
 *Included:
-  *Preconditions
-  *Test Scenarios
-  *Test Steps
-  *Test Data
-  *Expected Results
-  *Actual Results
-  *Status (Pass/Fail)
+  * Preconditions
+  * Test Scenarios
+  * Test Steps
+  * Test Data
+  * Expected Results
+  * Actual Results
+  * Status (Pass/Fail)
 
 ## Tools Used
   * Manual Testing
   * MS Excel
 
 ## Defect Reporting
-*Identified and documented bugs with:
-  *Severity & Priority
-  *Steps to Reproduce
-  *Environment
-  *Screenshort/Attachment & Input/Test Data
+* Identified and documented bugs with:
+  * Severity & Priority
+  * Steps to Reproduce
+  * Environment
+  * Screenshort/Attachment & Input/Test Data
 
 ## Tools Used
 * Bugzilla
 * github
 
 ## Security Testing
-*SQL Injection testing
-*Cross-Site Scripting (XSS) testing
-*Verified input validation and system protection mechanisms
+* SQL Injection testing
+* Cross-Site Scripting (XSS) testing
+* Verified input validation and system protection mechanisms
 
 ## Performance Testing
-*Checked response time for form submissions
-*Ensured system responds within acceptable time limits
+* Checked response time for form submissions
+* Ensured system responds within acceptable time limits
 
 ## Key Outcomes
-*Identified multiple validation issues
-*Verified core functionalities
-*Ensured system stability through regression testing
+* Identified multiple validation issues
+* Verified core functionalities
+* Ensured system stability through regression testing
 
 ## Project Structure
-*Test Cases (Excel)
-*Bug Reports
-*Test Scenarios
+* Test Cases (Excel)
+* Bug Reports
+* Test Scenarios
 
 ## Author
 Adarsh Singh
